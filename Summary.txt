@@ -1,4 +1,0 @@
-Summary
-
-The sentiment is quite unstable. For a long period, it seems like more stable than a short term, which short term means less than 1 hour.
-In addition, the ranges should be depend on the topic you like, and the topic that is more controversial would be unstable.
